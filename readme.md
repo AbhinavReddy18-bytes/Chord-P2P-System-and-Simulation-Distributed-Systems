@@ -1,9 +1,5 @@
 # Chord: P2P System and Simulation
 
-### Team Members
-- **Pavan Vishnu Sai Bestha** (UFID: 3804-3186)
-- **Abhinav Reddy Pannala** (UFID: 7031-4901)
-
 ## What is Working?
 - **Node Creation** - Nodes are successfully created within the network, each represented by an actor.
 - **Finger Table Setup** - Each node initializes its finger table, allowing for efficient routing and lookup.
